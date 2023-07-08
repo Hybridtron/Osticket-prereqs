@@ -1,6 +1,6 @@
 # osticket-prereqs
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://portal.azure.com/#@alexcalle392gmail.onmicrosoft.com/resource/subscriptions/b9f08a85-6078-412e-a394-e96232ab55dc/resourceGroups/Cclab1/overview" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
