@@ -1,6 +1,7 @@
 # osticket-prereqs
 <p align="center">
-<img src="https://portal.azure.com/#@alexcalle392gmail.onmicrosoft.com/resource/subscriptions/b9f08a85-6078-412e-a394-e96232ab55dc/resourceGroups/Cclab1/overview" alt="osTicket logo"/>
+<img src="">
+" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
@@ -29,6 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Heidi SQL
 - osTicket v1.15.8
 - Link to downloads: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
+<img width="914" alt="image" src="https://github.com/Hybridtron/osticket-prereqs/assets/126981612/67b87ea9-5e87-4ef2-975a-1cc291e33fbb">
 
 
 <h2>Installation Steps</h2>
