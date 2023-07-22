@@ -8,6 +8,7 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 <img width="920" alt="image" src="https://github.com/Hybridtron/osticket-prereqs/assets/126981612/a18acb9b-0f69-4984-9cbf-1ec0b42c824c">
+<img width="913" alt="image" src="https://github.com/Hybridtron/osticket-prereqs/assets/126981612/36802cca-8a33-414f-ac42-eda4c43c6471">
 
 
 <h2>Environments and Technologies Used</h2>
