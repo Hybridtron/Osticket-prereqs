@@ -1,6 +1,6 @@
 # osticket-prereqs
 <p align="center">
-<img src="">
+<img src="https://i.imgur.com/clzj7xs.png">
 " alt="osTicket logo"/>
 </p>
 
